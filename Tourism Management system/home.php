@@ -140,7 +140,7 @@
          <ul>
             <li>AA1931 - Daham Kahawearachchi - Software Engineer</li>
             <li>AA1685 - Peshan Radeesha -Cyber Security</li>
-            <li> </li>
+            <li>AA1867 - Lakmini Anuruddhika - Business Analyst </li>
             <li> </li>
             <li> </li>
          </ul>
