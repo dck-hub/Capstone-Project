@@ -51,7 +51,7 @@
             <div class="content">
                <span>explore, discover, travel, enjoy</span>
                <h3>travel arround sri lanka</h3>
-               <a href="Gallery.php" class="btn">discover more</a>
+               <a href="https://effulgent-lily-186c07.netlify.app/" class="btn">discover more</a>
             </div>
          </div>
 
@@ -134,12 +134,19 @@
       <img src="images/about-img.jpg" alt="">
    </div>
 
-   <div class="content">
+  <div class="content">
       <h3>about us</h3>
-      <p>We are Team Dark Infinity. This Tourism Management web application supply </p>
+      <p>We are Team Dark Infinity. Meet our Team Members. </br>
+         <ul>
+            <li>AA1931 - Daham Kahawearachchi - Software Engineer</li>
+            <li> </li>
+            <li> </li>
+            <li> </li>
+            <li> </li>
+         </ul>
+      </p>
       <a href="about.php" class="btn">read more</a>
    </div>
-
 </section>
 
 <!-- home about section ends -->
