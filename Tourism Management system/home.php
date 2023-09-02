@@ -139,7 +139,7 @@
       <p>We are Team Dark Infinity. Meet our Team Members. </br>
          <ul>
             <li>AA1931 - Daham Kahawearachchi - Software Engineer</li>
-            <li>AA1685 - Peshan Radeesha -Cyber Security</li>
+            <li>AA1685 - Peshan Radeesha -Attendance & Collaboration</li>
             <li>AA1867 - Lakmini Anuruddhika - Business Analyst </li>
             <li> </li>
             <li> </li>
