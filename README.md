@@ -1,2 +1,2 @@
 # Capstone-Project
-Develop a web based tourism management system
+Develop a web based tourism management system.
