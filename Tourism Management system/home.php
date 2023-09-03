@@ -67,7 +67,7 @@
             <div class="content">
                <span>explore, discover, travel, enjoy</span>
                <h3>make your tour worthwhile</h3>
-               <a href="Gallery.php" class="btn">discover more</a>
+               <a href="https://app.netlify.com/sites/travel-advisor-dark-infinity/overview" target="_blank" rel="noopener noreferrer" class="btn">discover more</a>
             </div>
          </div>
          
